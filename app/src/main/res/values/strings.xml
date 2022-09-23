@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APPmine</string>
+    <string name="btnCrafting">Crafting</string>
+    <string name="btnDiversao">Diversão</string>
+    <string name="btnCozinha">Cozinha</string>
+    <string name="btnSeeds">Seeds</string>
+    <string name="txtDiversao">AGITE O SMARTPHONE PARA USAR A PICARETA</string>
+</resources>
